@@ -1,20 +1,20 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'mày à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao mày cứ nhảy vào đường tao
+
+    `,
     btnIntro: 'hihi',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích em <33',
-    btnNo: 'Không, Em gái à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu anh <3',
-    btnReply: 'Gửi cho em <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
-    messDesc: 'Ib cho iem nhó.',
-    btnAccept: 'Okiiiii lun <3',
+    title: 'Phải chăng mày ám tao hả thằng lon',
+    desc: 'Phải chăng mày là gay hả thg buồi ',
+    btnYes: 'Đúng vại',
+    btnNo: 'Đéo',
+    question:'Trên thế giới có 7 tỉ người cớ sao mày lại gay thế hả thằng lon ',
+    btnReply: 'Gửi cho daika',
+    reply: 'Tao gay thì làm sao',
+    mess: 'Oke con giai, gay lọ',
+    messDesc: 'Ib sủa tiếp đê.',
+    btnAccept: 'Ok mài!',
     messLink: 'https://m.me/anhthu.hoang.33671748',
 
 
